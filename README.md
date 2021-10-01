@@ -1,0 +1,3 @@
+My first real attempt at creating with HTML
+This project has a homepage that shows a list of recipes and links each recipe to a page with the recipe and a picture of the final product of the recipe.
+Some skills I have demonstrated in this project are creating a html boilerplate, using different tags in html, creating links, adding pictures to a page, and this is also my first real expierence in using git.
