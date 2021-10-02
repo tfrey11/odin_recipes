@@ -1,4 +1,20 @@
 img {
     width: 900px;
     height: auto;
+    background-color: black;
+}
+
+
+h1, h2 {
+    text-align: center;
+    background-color: black;
+    color: lightgrey;
+}
+
+ul {
+    color: blue;
+}
+
+ol {
+    color: red;
 }
